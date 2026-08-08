@@ -1,6 +1,6 @@
 # 💫 About Me:
-Backend Developer in progress.<br>Learning Python, Django, PostgreSQL, Redis, and system design one step at a time.
-
+Aspiring Backend Developer focused on Python and Django.
+Learning backend development, databases, Redis, and system design.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/reza._.shoonam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dabirpour.reza@gmail.com) 
