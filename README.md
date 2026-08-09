@@ -25,7 +25,6 @@ Learning backend development, databases, Redis, and system design.
 
 ![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/django%20rest%20framework-A30000?style=for-the-badge&logo=django&logoColor=white)
-![Django ORM](https://img.shields.io/badge/Django%20ORM-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 **Database & Cache**
 
